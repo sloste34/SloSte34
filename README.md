@@ -1,6 +1,7 @@
+- I like quotes 'Slow and Steady Wins the Race'.
 - 👋 Hi, I’m @SloSte34(MINSU KIM)
-- 👀 I’m interested in Front-end
-- 🌱 I’m currently learning Front-end
+- 👀 I’m interested in Front-end development.
+- 🌱 I’m currently learning Front-end Skills
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
