@@ -1,3 +1,7 @@
+### Hi! Nice to see you in my GitHub profile
+### My name is MINSU KIM
+#### I am Front-End Developer
+
 - I like quotes 'Slow and Steady Wins the Race'.
 - 👋 Hi, I’m @SloSte34(MINSU KIM)
 - 👀 I’m interested in Front-end development.
