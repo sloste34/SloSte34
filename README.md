@@ -4,8 +4,11 @@
 <!-- Instagram Link   -->
 <!-- <a href="https://www.instagram.com/userLink" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"></a> -->
 <!-- Dev Blog Link -->
+<h4>Dev Blog</h4>
 <a href="" target="_blank"><img src="">Dev Blog</a>
-<!-- Notion Link -->
+<!-- Notion Resume Link -->
+
+<h4>Notion Resume</h4>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"></a>
 
 
