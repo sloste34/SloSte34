@@ -17,25 +17,17 @@
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
 <!-- JavaScript -->
 	<img src="https://img.shields.io/badge/Javascript-yellow?style=flat&logo=Javascript&logoColor=white" />
-<!-- JavaScript -->
+<!-- TypeScript -->
 	<img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=Typescript&logoColor=white" />
-<!-- JavaScript -->
-	<img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white" />
-<!-- JavaScript -->
+<!-- Git -->
 	<img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white" />
-<!-- JavaScript -->
+<!-- Github -->
 	<img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white" />
-<!-- JavaScript -->
+<!-- React -->
 	<img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=black" />
-<!-- JavaScript -->
-	<img src="https://img.shields.io/badge/React Query-FF4154?style=flat&logo=React Query&logoColor=white" />
-<!-- JavaScript -->
-	<img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=white" />
 <!-- JavaScript -->
 	<img src="https://img.shields.io/badge/styled components-DB7093?style=flat&logo=styled-components&logoColor=white" />
 </div>
-<br />
-<br />
 
 ![State](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sloste34&theme=github)
 ![Top Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sloste34&theme=github)
