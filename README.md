@@ -1,13 +1,10 @@
-<h2>김민수</h2>
-<h3>sloste34 Github</h3>
+<h2>안녕하세요, 꾸준함이 무기가 되고 싶은 개발자, 김민수입니다.</h2>
 	
-<!-- Dev Blog Link -->
-<h4>Dev Blog</h4>
-<a href="" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Tistory&color=green&style=for-the-badge&logo=Tistory"></a>
-<!-- Notion Resume Link -->
+<h3>Blog</h3>
+<a href="https://cocazero-dev.tistory.com" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Tistory&color=green&style=for-the-badge&logo=Tistory"></a>
 
-<h4>Notion Resume</h4>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Notion-blue?style=for-the-badge&logo=Notion"></a>
+<h3>Notion Resume</h3>
+<a href="https://sloste34.notion.site/b0901d5d64104f90b089dc43bb7314be" target="_blank"><img src="https://img.shields.io/badge/Notion-blue?style=for-the-badge&logo=Notion"></a>
 
 
 <h3>STACKS</h3>
