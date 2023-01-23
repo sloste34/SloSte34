@@ -1,4 +1,4 @@
-<h2>안녕하세요, 꾸준함이 무기가 되고 싶은 개발자, 김민수입니다.</h2>
+<h2>안녕하세요! 꾸준함이 무기가 되고 싶은 개발자, 김민수입니다.</h2>
 	
 <h3>Blog</h3>
 <a href="https://cocazero-dev.tistory.com" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Tistory&color=green&style=for-the-badge&logo=Tistory"></a>
@@ -27,7 +27,9 @@
 	<img src="https://img.shields.io/badge/styled components-DB7093?style=flat&logo=styled-components&logoColor=white" />
 </div>
 
+<br/>
+
 ![State](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sloste34&theme=github)
 ![Top Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sloste34&theme=github)
-![Commit Graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sloste34&theme=github)
-[![trophy](https://github-profile-trophy.vercel.app/?username=sloste34&theme=flat&column=7)](https://github.com/sloste34/)
+<!-- ![Commit Graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sloste34&theme=github) -->
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=sloste34&theme=flat&column=7)](https://github.com/sloste34/) -->
