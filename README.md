@@ -7,7 +7,7 @@
 <a href="https://sloste34.notion.site/b0901d5d64104f90b089dc43bb7314be" target="_blank"><img src="https://img.shields.io/badge/Notion-blue?style=for-the-badge&logo=Notion"></a>
 
 
-<h3>STACKS</h3>
+<!-- <h3>STACKS</h3>
 <div>
 <!-- HTML5 -->
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
@@ -33,3 +33,4 @@
 ![Top Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sloste34&theme=github)
 <!-- ![Commit Graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sloste34&theme=github) -->
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=sloste34&theme=flat&column=7)](https://github.com/sloste34/) -->
+ -->
