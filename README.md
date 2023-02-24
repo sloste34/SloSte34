@@ -1,11 +1,11 @@
 <h3>안녕하세요. 꾸준함이 무기가 되고 싶은 개발자, 김민수입니다.</h3>
-'Rome wasn't built in a day', 'Slow and steady wins the race'라는 구절을 항상 되새기며 꾸준히 공부하려고 노력합니다.
+'Rome wasn't built in a day', 'Slow and steady wins the race'와 같은 구절을 항상 되새기며 꾸준히 공부하려고 노력합니다.
 
 - - -
 
 <h3>My Links</h3>
 <h4>Notion Resume</h4>
-<a href="https://sloste34.notion.site/b0901d5d64104f90b089dc43bb7314be" target="_blank"><img src="https://img.shields.io/badge/Notion-blue?style=for-the-badge&logo=Notion"></a>
+<a href="http://bit.ly/3I4aFVF" target="_blank"><img src="https://img.shields.io/badge/Notion-blue?style=for-the-badge&logo=Notion"></a>
 	
 <h4>Blog</h4>
 <a href="https://cocazero-dev.tistory.com" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Tistory&color=green&style=for-the-badge&logo=Tistory"></a>
