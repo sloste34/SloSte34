@@ -11,7 +11,7 @@
 
 - - -
 
-<h3>STACKS</h3>
+<h3>Stacks</h3>
 <div>
 <!-- HTML5 -->
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
