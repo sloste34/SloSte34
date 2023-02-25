@@ -1,5 +1,5 @@
 <h3>안녕하세요. 꾸준함이 무기가 되고 싶은 개발자, 김민수입니다.</h3>
-'Rome wasn't built in a day', 'Slow and steady wins the race'와 같은 구절을 항상 되새기며 꾸준히 공부하려고 노력합니다.
+'Rome wasn't built in a day', 'Slow and steady wins the race'와 같은 구절을 항상 되새기며 꾸준히 공부하는 개발자가 되려고 노력합니다.
 
 - - -
 
