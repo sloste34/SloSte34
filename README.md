@@ -4,8 +4,8 @@
 - - -
 
 <h3>My Links</h3>
-<h4>Notion Resume</h4>
-<a href="http://bit.ly/3I4aFVF" target="_blank"><img src="https://img.shields.io/badge/Notion-blue?style=for-the-badge&logo=Notion"></a>
+<h4>Resume</h4>
+<a href="https://sloste34.notion.site/b0901d5d64104f90b089dc43bb7314be?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-blue?style=for-the-badge&logo=Notion"></a>
 	
 <h4>Blog</h4>
 <a href="https://cocazero-dev.tistory.com" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Tistory&color=green&style=for-the-badge&logo=Tistory"></a>
